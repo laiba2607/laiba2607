@@ -4,6 +4,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Web Development
 - 😄 Pronouns: She/her
+-  My linkedin https://www.linkedin.com/in/laiba-mudassir-0a5792266/
 
 <!---
 laiba2607/laiba2607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
