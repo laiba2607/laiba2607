@@ -1,4 +1,4 @@
-![github-header-image (10) width="200"](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif))
+![github-header-image (10)](![Header](./your-header-image-name.png)))
 
 <h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
