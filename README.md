@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://github.com/laiba2607/laiba2607/assets//github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
