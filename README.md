@@ -1,4 +1,4 @@
-![github-header-image (10)](https://github.com/laiba2607/laiba2607/assets/134529402/8fa7d738-73d3-40ce-955a-52487ca9c15a)
+![github-header-image (10)](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif))
 
 <h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
