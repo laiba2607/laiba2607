@@ -1,6 +1,6 @@
 ![logo](github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
+<!-- <h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laiba2607&show_icons=true&locale=en&layout=compact" alt="laiba2607" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiba2607&show_icons=true&locale=en" alt="laiba2607" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiba2607&show_icons=true&locale=en" alt="laiba2607" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laiba2607&" alt="laiba2607" /></p>
 <h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
