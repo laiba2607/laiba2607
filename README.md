@@ -1,6 +1,6 @@
 ![logo](github-header-image.png)
 
-![logo](cover)
+<img src="cover.jpg" width="100%" />
 
 
 
