@@ -25,6 +25,98 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiba2607&show_icons=true&locale=en" alt="laiba2607" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laiba2607&" alt="laiba2607" /></p>
+<h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
+<h3 align="center">Full Stack Web Developer | AI & Data Science Enthusiast</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+
+---
+
+### 🧕 About Me
+
+**Assalamualaikum! 👋**
+
+I’m **Laiba Mudassir**, a passionate **Full Stack Web Developer** and an aspiring **AI & Data Science professional**, focused on building intelligent and user-centric digital solutions.
+
+I have hands-on experience in both frontend and backend development using:
+
+💻 HTML | CSS | JavaScript
+⚙️ PHP | Laravel | MySQL
+
+Alongside web development, I am actively working on **Machine Learning and AI-based projects**, including chatbot development and data-driven applications.
+
+🎓 Currently pursuing **BS Computer Science** from Virtual University
+📊 Expanding skills in **Artificial Intelligence & Data Science** through real-world projects
+
+---
+
+### 🚀 Projects
+
+* 🌍 Travel Planner Application
+* ☕ Coffee Shop Website
+* 🏔️ Mountaineering Website
+* 📸 Photography Portfolio
+
+These projects have strengthened my problem-solving and development skills.
+
+---
+
+### 🌱 Currently
+
+* 🔭 Working on **AI Projects & Smart Applications**
+* 🌱 Learning **PHP, Laravel & Machine Learning**
+
+---
+
+### 🎯 Interests
+
+* 🤖 Artificial Intelligence
+* 📊 Machine Learning
+* 🌐 Full Stack Development
+
+---
+
+### 📫 Connect With Me
+
+* 💼 Portfolio: https://portfolio-2607-6913f.web.app/
+* 🔗 LinkedIn: https://www.linkedin.com/in/laiba-mudassir-0a5792266/
+* 📷 Instagram: https://instagram.com/laiba26__
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiba2607&show_icons=true&locale=en&layout=compact" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=laiba2607&show_icons=true&locale=en" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=laiba2607" /></p>
+
+---
+
+### 🤝 Opportunities
+
+I am open to **internships, collaborations, and opportunities** in:
+
+✔️ AI
+✔️ Data Science
+✔️ Full Stack Development
+
+🚀 *Let’s build something impactful together!*
 
 
 <!---
