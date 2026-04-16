@@ -80,7 +80,7 @@ These projects have strengthened my problem-solving and development skills.
 
 * 💼 Portfolio: https://portfolio-2607-6913f.web.app/
 * 🔗 LinkedIn: https://www.linkedin.com/in/laiba-mudassir-0a5792266/
-* 📷 Instagram: <a href="https://www.instagram.com/laiba26__/" target="_blank">
+* 📷 Instagram: https://www.instagram.com/laiba26__/
 
 ---
 
