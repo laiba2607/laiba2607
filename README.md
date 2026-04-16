@@ -1,6 +1,6 @@
 ![logo](github-header-image.png)
 
-<img src="cover.jpg" width="100%" />
+<img src="[cover.jpg](https://media.licdn.com/dms/image/v2/D4D16AQG3R3pu8AQlpw/profile-displaybackgroundimage-shrink_350_1400/B4DZ0pngaFGgAY-/0/1774519716865?e=1778112000&v=beta&t=El1jXgF9m54L1Fk1myJgU6MFOusPuT4HiJovcDTZBFE)" width="100%" />
 
 
 
