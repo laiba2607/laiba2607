@@ -1,5 +1,9 @@
 ![logo](github-header-image.png)
 
+![logo](cover)
+
+
+
 <!-- <h1 align="center">Hi 👋, I'm Laiba Mudassir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
